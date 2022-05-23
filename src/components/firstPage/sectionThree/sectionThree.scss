@@ -1,0 +1,26 @@
+.secTrheeWrapp{
+    background-image: url('./bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    padding-top: 80px;
+    padding-bottom: 110px;
+}
+
+.wrapped_flex{
+    display: flex;
+    justify-content: center;
+    padding-left: 67px;
+    
+    span{
+        display: block;
+        font-family: 'Merienda';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 14px;
+        text-align: end;
+        margin-right: 22px;
+        margin-top: 10px;
+        color: #000000;
+    }
+}

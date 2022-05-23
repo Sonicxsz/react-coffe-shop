@@ -1,0 +1,67 @@
+.wrapp{
+    padding-bottom: 30px;
+}
+.seacrh{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.inp_wrap{
+    margin-right: 83px;
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+    span{
+        display: inline-block;
+        margin-right: 20px;
+    }
+    input{
+        width: 180px;
+        height: 30px;
+        background: #FFFFFF;
+        box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+        border-radius: 4px;
+        font-family: 'Merienda';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 17px;
+        text-align: center;
+        color: rgba(0, 0, 0, 0.5);
+    }
+}
+
+.btn_wrap{
+    font-family: 'Merienda';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+    span{
+        display: inline-block;
+        margin-right: 35px;
+    }
+    button{
+        width: 75px;
+        height: 30px;
+        border: none;
+        margin-right: 5px;
+        background: #FFFFFF;
+        box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+        border-radius: 4px 0px 0px 4px;
+        font-family: 'Merienda';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 17px;
+        text-align: center;
+        color: #000000;
+    }
+}

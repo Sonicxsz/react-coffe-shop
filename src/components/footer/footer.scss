@@ -1,0 +1,33 @@
+.footer_wrapp{
+    width: 100%;
+}
+
+.footer_list{
+    display: flex;
+    justify-content: center;
+    .footer_main_logo{
+        margin-right: 0;
+    }
+
+    li{
+        list-style-type: none;
+        display: inline-block;
+        margin-right: 40px;
+        line-height: 45px;
+        margin-top: 15px;
+        a{
+            text-decoration: none;
+            font-family: 'Merienda';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 12px;
+            line-height: 17px;  
+            color: #000000;
+        }
+    }
+}
+.logo_fot_wrap{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
